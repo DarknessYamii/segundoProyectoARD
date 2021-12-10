@@ -1,0 +1,14 @@
+.body {
+    
+    background-image: url("../../../assets/images/gaming.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.title {
+    color: #ffffff;
+    background-color: aqua;
+    width: 25%;
+
+}

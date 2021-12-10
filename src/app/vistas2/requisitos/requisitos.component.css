@@ -1,0 +1,23 @@
+.lol{
+    background-image: url("../../../assets/images/fondo3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+ /* Estilo para los index de los juegos como LoL.html Dota.html etc... */
+ div.requisitos{
+    font-family: 'Press Start 2P', cursive; 
+  }
+  div.requisitos h3 {
+      color: rgb(0, 183, 255);
+  }
+  ul.requisitos>li {
+      color: rgb(255, 183, 28)
+  }
+  p.requisitos{
+      color: rgb(166, 255, 0);
+      margin-top: 3vw;
+  }
+  h1.requisitos{
+      color: rgb(106, 225, 255);
+  }

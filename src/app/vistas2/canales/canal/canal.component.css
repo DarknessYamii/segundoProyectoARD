@@ -1,0 +1,8 @@
+#canal {
+  background-color: aqua;
+  border-radius: 10px;
+}
+#canal * {
+  margin: 10px;
+  padding: 10px;
+}

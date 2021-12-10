@@ -1,0 +1,16 @@
+<div class="body">
+  <div class="container">
+    <h3 class="title">Juegos mas comprados:</h3>
+
+    <div class="row">
+      <div class="col-md-4 mb-3" *ngFor="let topGame of topGames">
+        <div class="card">
+          <img class="img-fluid" alt="100%x280" src="{{ topGame.url }}" />
+          <div class="card-body">
+            <h4 class="card-title">{{ topGame.gameTitle }}</h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,47 @@
+.container-fluid {
+    background-color: black;
+}
+
+.login {
+    border: 1px solid blue;
+    background-color: cornflowerblue;
+    height: 35.7em;
+    width: 100%;
+}
+
+label {
+    display: block;
+    text-align: center;
+}
+
+input {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.label {
+    display: block;
+    text-align: center;
+}
+
+.button {
+    font-size: 20px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    padding: 13px 50px 13px;
+    outline: 0;
+    border: 1px solid black;
+    cursor: pointer;
+    position: relative;
+    font-family: "Roboto Mono", monospace;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+button {
+    margin: 50px;
+    font-family: inherit;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
